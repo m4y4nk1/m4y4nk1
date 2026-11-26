@@ -81,8 +81,8 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m4y4nk1&bg_color=0b1026&color=c9d1d9&line=fdb927&point=ffffff&area=true&area_color=552583&hide_border=true" alt="Contribution activity graph"/>
 </p>
 
-<!-- Snake: built daily by .github/workflows/snake.yml (Platane/snk) onto the `output` branch.
-     It 404s until that workflow has run once. -->
+<!-- Snake: hidden until GitHub Actions billing is unlocked. To restore: run the "snake" workflow once
+     (it builds the `output` branch), then delete this comment's opening lines and the closing line below.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4y4nk1/m4y4nk1/output/snake-dark.svg"/>
@@ -90,6 +90,7 @@
     <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/m4y4nk1/m4y4nk1/output/snake-dark.svg"/>
   </picture>
 </p>
+end of hidden snake -->
 
 <p align="center">
   <img src="./assets/footer.svg" alt="Mamba Mentality — see you at the top" width="100%"/>
