@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="100%" role="img" aria-label="Mamba Mentality. See you at the top.">
+  <defs>
+    <linearGradient id="fsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1026" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1d1442"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .tw { animation: twinkle ease-in-out infinite; }
+    @keyframes twinkle { 0%,100% { opacity: .2 } 50% { opacity: 1 } }
+    .glow { animation: glow 4s ease-in-out infinite; }
+    @keyframes glow { 0%,100% { opacity: .65 } 50% { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) { .tw, .glow { animation: none; } }
+  </style>
+  <rect width="1200" height="140" fill="url(#fsky)"/>
+  <circle class="tw" cx="1158.2" cy="53.2" r="1.6" fill="#ffffff" style="animation-duration:2.60s;animation-delay:-1.69s"/>
+    <circle class="tw" cx="145.1" cy="14.0" r="0.8" fill="#ffffff" style="animation-duration:3.74s;animation-delay:-2.37s"/>
+    <circle class="tw" cx="146.4" cy="40.7" r="1.2" fill="#ffffff" style="animation-duration:4.27s;animation-delay:-3.60s"/>
+    <circle class="tw" cx="108.5" cy="65.0" r="1.6" fill="#ffffff" style="animation-duration:3.38s;animation-delay:-1.80s"/>
+    <circle class="tw" cx="237.0" cy="31.2" r="0.6" fill="#ffffff" style="animation-duration:2.74s;animation-delay:-0.02s"/>
+    <circle class="tw" cx="1087.9" cy="45.9" r="1.2" fill="#ffffff" style="animation-duration:3.85s;animation-delay:-4.89s"/>
+    <circle class="tw" cx="720.2" cy="57.3" r="1.6" fill="#ffffff" style="animation-duration:2.70s;animation-delay:-1.15s"/>
+    <circle class="tw" cx="892.7" cy="45.3" r="0.6" fill="#fdb927" style="animation-duration:3.01s;animation-delay:-1.48s"/>
+    <circle class="tw" cx="385.2" cy="63.5" r="1.2" fill="#ffffff" style="animation-duration:2.78s;animation-delay:-1.48s"/>
+    <circle class="tw" cx="1172.2" cy="25.8" r="1.0" fill="#ffffff" style="animation-duration:3.81s;animation-delay:-3.13s"/>
+    <circle class="tw" cx="939.9" cy="20.7" r="0.6" fill="#ffffff" style="animation-duration:2.69s;animation-delay:-1.85s"/>
+    <circle class="tw" cx="1016.5" cy="21.8" r="1.0" fill="#ffffff" style="animation-duration:3.39s;animation-delay:-1.92s"/>
+    <circle class="tw" cx="628.4" cy="48.3" r="1.0" fill="#ffffff" style="animation-duration:4.87s;animation-delay:-3.02s"/>
+    <circle class="tw" cx="513.0" cy="34.3" r="1.6" fill="#ffffff" style="animation-duration:3.78s;animation-delay:-0.41s"/>
+    <circle class="tw" cx="597.9" cy="60.6" r="1.2" fill="#ffffff" style="animation-duration:4.73s;animation-delay:-3.12s"/>
+    <circle class="tw" cx="1184.1" cy="19.2" r="1.6" fill="#ffffff" style="animation-duration:2.94s;animation-delay:-4.98s"/>
+    <circle class="tw" cx="293.4" cy="17.2" r="0.8" fill="#ffffff" style="animation-duration:4.77s;animation-delay:-3.74s"/>
+    <circle class="tw" cx="975.9" cy="41.8" r="0.8" fill="#ffffff" style="animation-duration:3.29s;animation-delay:-3.90s"/>
+    <circle class="tw" cx="465.5" cy="45.8" r="1.6" fill="#ffffff" style="animation-duration:5.48s;animation-delay:-4.60s"/>
+    <circle class="tw" cx="164.2" cy="42.7" r="1.0" fill="#ffffff" style="animation-duration:2.30s;animation-delay:-2.31s"/>
+    <circle class="tw" cx="1086.5" cy="64.8" r="0.6" fill="#ffffff" style="animation-duration:2.44s;animation-delay:-1.79s"/>
+    <circle class="tw" cx="79.2" cy="55.3" r="0.6" fill="#ffffff" style="animation-duration:5.01s;animation-delay:-3.27s"/>
+    <circle class="tw" cx="994.1" cy="57.0" r="0.6" fill="#ffffff" style="animation-duration:4.10s;animation-delay:-1.60s"/>
+    <circle class="tw" cx="429.0" cy="22.9" r="1.6" fill="#ffffff" style="animation-duration:5.15s;animation-delay:-4.58s"/>
+    <circle class="tw" cx="521.5" cy="11.0" r="1.2" fill="#fdb927" style="animation-duration:2.52s;animation-delay:-3.64s"/>
+    <circle class="tw" cx="641.4" cy="5.8" r="0.8" fill="#ffffff" style="animation-duration:3.18s;animation-delay:-0.99s"/>
+    <circle class="tw" cx="68.6" cy="55.1" r="0.8" fill="#ffffff" style="animation-duration:4.89s;animation-delay:-2.80s"/>
+    <circle class="tw" cx="1058.3" cy="51.5" r="1.2" fill="#ffffff" style="animation-duration:2.39s;animation-delay:-3.59s"/>
+    <circle class="tw" cx="165.0" cy="52.5" r="0.8" fill="#ffffff" style="animation-duration:3.14s;animation-delay:-2.04s"/>
+    <circle class="tw" cx="914.5" cy="4.3" r="1.2" fill="#ffffff" style="animation-duration:4.05s;animation-delay:-3.07s"/>
+    <circle class="tw" cx="1123.8" cy="40.5" r="1.0" fill="#ffffff" style="animation-duration:4.42s;animation-delay:-4.92s"/>
+    <circle class="tw" cx="439.9" cy="59.1" r="1.6" fill="#ffffff" style="animation-duration:2.66s;animation-delay:-1.33s"/>
+    <circle class="tw" cx="999.6" cy="58.7" r="1.0" fill="#ffffff" style="animation-duration:3.75s;animation-delay:-4.86s"/>
+    <circle class="tw" cx="1124.2" cy="20.2" r="0.8" fill="#ffffff" style="animation-duration:3.99s;animation-delay:-1.95s"/>
+    <circle class="tw" cx="586.5" cy="33.3" r="1.0" fill="#ffffff" style="animation-duration:3.38s;animation-delay:-0.17s"/>
+    <circle class="tw" cx="1133.7" cy="24.3" r="0.6" fill="#ffffff" style="animation-duration:4.18s;animation-delay:-0.72s"/>
+    <circle class="tw" cx="95.7" cy="12.9" r="1.6" fill="#ffffff" style="animation-duration:5.32s;animation-delay:-3.84s"/>
+    <circle class="tw" cx="676.9" cy="40.5" r="0.6" fill="#ffffff" style="animation-duration:3.30s;animation-delay:-2.51s"/>
+    <circle class="tw" cx="858.9" cy="25.8" r="1.0" fill="#ffffff" style="animation-duration:2.37s;animation-delay:-1.60s"/>
+    <circle class="tw" cx="1012.0" cy="45.2" r="1.2" fill="#ffffff" style="animation-duration:3.28s;animation-delay:-1.73s"/>
+    <circle class="tw" cx="969.7" cy="26.2" r="0.6" fill="#ffffff" style="animation-duration:4.57s;animation-delay:-4.64s"/>
+    <circle class="tw" cx="780.8" cy="4.3" r="0.8" fill="#ffffff" style="animation-duration:3.78s;animation-delay:-2.42s"/>
+    <circle class="tw" cx="207.8" cy="9.8" r="1.0" fill="#ffffff" style="animation-duration:4.75s;animation-delay:-3.92s"/>
+    <circle class="tw" cx="700.9" cy="18.3" r="1.0" fill="#ffffff" style="animation-duration:3.01s;animation-delay:-4.30s"/>
+    <circle class="tw" cx="755.0" cy="34.9" r="1.2" fill="#ffffff" style="animation-duration:3.19s;animation-delay:-2.89s"/>
+    <circle class="tw" cx="433.6" cy="42.0" r="1.2" fill="#ffffff" style="animation-duration:3.27s;animation-delay:-2.86s"/>
+    <circle class="tw" cx="627.9" cy="41.3" r="0.8" fill="#ffffff" style="animation-duration:3.76s;animation-delay:-0.17s"/>
+    <circle class="tw" cx="798.3" cy="21.8" r="0.8" fill="#ffffff" style="animation-duration:4.23s;animation-delay:-1.27s"/>
+    <circle class="tw" cx="236.8" cy="8.1" r="0.6" fill="#ffffff" style="animation-duration:3.55s;animation-delay:-4.15s"/>
+    <circle class="tw" cx="33.5" cy="0.4" r="0.6" fill="#ffffff" style="animation-duration:4.58s;animation-delay:-2.88s"/>
+  <polygon points="-80,140 -80.0,113.2 2.2,116.2 72.0,117.4 119.9,90.0 165.9,100.7 224.0,106.4 283.7,114.2 359.6,117.3 406.9,119.4 455.7,107.8 535.0,108.6 576.4,112.2 660.0,118.1 725.8,108.7 793.5,109.8 862.7,105.1 929.9,93.0 993.8,115.7 1032.9,91.6 1092.3,114.2 1173.7,102.6 1244.7,93.6 1294.4,109.3 1280,140" fill="#231a4d" opacity="0.9"/>
+  <polygon points="-80,140 -80.0,136.6 -25.5,137.6 26.4,122.4 87.6,118.9 132.7,135.1 165.1,126.8 210.4,138.2 270.0,127.3 322.2,134.5 358.0,139.7 397.3,133.3 439.6,130.6 496.6,117.7 529.9,130.1 562.9,123.4 625.0,135.0 679.6,132.5 707.1,120.9 746.4,135.7 789.1,134.2 830.8,128.8 872.9,125.3 910.3,137.6 940.3,137.3 986.1,131.0 1042.2,127.4 1094.7,115.5 1123.9,139.6 1156.0,130.3 1203.6,121.4 1243.3,115.9 1270.4,119.1 1305.0,118.1 1280,140" fill="#07060f"/>
+  <text class="glow" x="600.0" y="52" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="6" fill="#fdb927">MAMBA MENTALITY</text>
+  <text x="600.0" y="78" text-anchor="middle" font-family="'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#8b93b0">see you at the top</text>
+</svg>
